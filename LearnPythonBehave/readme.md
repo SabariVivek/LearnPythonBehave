@@ -14,4 +14,4 @@
 
 ## 1. Hook file should be placed under features' folder.
 ## 2. Hook file should be named as "Environment" file.
-
+## 3. Steps folder should be placed under "features" folder.
